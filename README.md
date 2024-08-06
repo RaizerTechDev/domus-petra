@@ -1,6 +1,6 @@
 <h1 align="center">
-<a href= "https://docs.google.com/document/d/1K0ddl-amapy3JxtysxjGxdwzEkTlYefFCeNegrZ7np8/edit?pli=1">
-<img src="/public/outros/doc.png" target="_blank"= alt="Descrição da Imagem" height="30">
+<a href= "https://docs.google.com/document/d/1K0ddl-amapy3JxtysxjGxdwzEkTlYefFCeNegrZ7np8/edit?pli=1" target = "_blank">
+<img src="/public/outros/doc.png" alt="Descrição da Imagem" height="30">
 </a>
 
 <br>
