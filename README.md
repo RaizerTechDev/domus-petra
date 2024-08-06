@@ -8,9 +8,18 @@
 
 Este repositório contém um modelo de aplicativo configurado com as **melhores práticas** para desenvolvimento utilizando Next.js, Tailwind CSS e TypeScript.
 
+---
+
+<br>
+
+<div align="center">
+
 ## 🧑‍💻 Time Hydra Developer:
 
-[<img src='https://avatars.githubusercontent.com/u/96358624?v=4' alt='Foto Lucas' height='150' >](https://github.com/llucasgomes)   [<img src='https://avatars.githubusercontent.com/u/95360085?v=4' alt='Foto Amanda Spitzner' height='150'>](https://github.com/amandaspitz)[<img src='https://avatars.githubusercontent.com/u/87991807?v=4' alt='Foto Amanda Spitzner' height='150'>](https://github.com/RafaRz76Dev)
+[<img src='./public/outros/equipe-hydra-developer.png' height='550'>]
+
+---
+<div align="left">
 
 ## 🦄 Figma
 Figma é uma ferramenta de design colaborativo baseada na web, amplamente utilizada por designers para criar interfaces de usuário, protótipos e gráficos vetoriais. 
@@ -73,3 +82,28 @@ https://trello.com/invite/b/6691c78dc97bf7a6dea697bc/ATTI045e6bd616c37cb57381540
 `NEXT_AUTH_SECRET=""`
 `RESEND_API_KEY=""`
 `FIREBASE=""`
+
+---
+
+
+<img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autores
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/95360085?v=4" alt='Foto Amanda Spitzner'/>
+    <p>&nbsp&nbsp&nbspAmandaSpitz<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=41999824466">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/amandaspitzner/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/amandaspitz?tab=repositories">GitHub</a></p>
+    
+</p>
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/96358624?v=4" alt='Foto Lucas'/>
+    <p>&nbsp&nbsp&nbspLucasGomes<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=92988471665">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/llucasgomess/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/llucasgomes">GitHub</a></p>
+</p>
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
+    <p>&nbsp&nbsp&nbspRafaRaizer<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RafaRz76Dev">GitHub</a></p>
+</p>
+
